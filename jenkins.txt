@@ -1,6 +1,0 @@
-voidmain()
-
-
-12333
-bhbhhbxb
-end:
